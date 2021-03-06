@@ -12,7 +12,10 @@ I made the first calculation by hand for my shares in [CSTM](https://finance.yah
 
 Here's a short video 👇🏽
 
-https://user-images.githubusercontent.com/2737103/110219077-5da5d580-7ebd-11eb-89ae-03b820416a21.mov
+
+https://user-images.githubusercontent.com/2737103/110219207-21bf4000-7ebe-11eb-8174-db205c3cd4e8.mp4
+
+
 
 
 ## Installation
