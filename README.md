@@ -25,3 +25,4 @@ I made the first calculation by hand for my shares in [CSTM](https://finance.yah
 3. Run `stock-seller` command to begin. Read the questions and provide your answers
 
 # Licence
+MIT
