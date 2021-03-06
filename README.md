@@ -1,14 +1,19 @@
-# Stock Seller
+# Stock Seller 💸
 
-This is a CLI that helps me make portfolio re balancing decisions.
+This is a CLI that helps me make "portfolio rebalancing" decisions.
 
 This program is based on a piece of advice I heard
 
-> Sell 20% of your shares in a stock after a _40% increase_ in price
-> After another 40% increase, sell another 20%
+> Sell 20% of your shares in a stock after a __40% increase__ in price. <br />
+> After another 40% increase, sell another 20%. <br />
 > And so on......
 
 I made the first calculation by hand for my shares in [CSTM](https://finance.yahoo.com/quote/CSTM?p=CSTM&.tsrc=fin-srch) and decided to automate the process.
+
+Here's a short video 👇🏽
+
+https://user-images.githubusercontent.com/2737103/110219077-5da5d580-7ebd-11eb-89ae-03b820416a21.mov
+
 
 ## Installation
 
