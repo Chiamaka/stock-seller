@@ -1,0 +1,24 @@
+{
+  "name": "stock-seller",
+  "version": "1.0.0",
+  "description": "This is a program that checks if your shares have a profit of > 40% and how much of the shares (20%) to sell",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "stock-seller": "index.ts"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^7.3.1",
+    "@types/node": "^14.14.31",
+    "prettier": "2.2.1"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "inquirer": "^8.0.0"
+  },
+  "main": "index.js"
+}
